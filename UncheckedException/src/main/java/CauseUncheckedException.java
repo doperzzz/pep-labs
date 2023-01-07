@@ -15,5 +15,10 @@ public class CauseUncheckedException {
      */
     public void throwUncheckedException(){
 
+        int i = 7;
+        if ( i % 0 == 0){
+            throw new ArithmeticException("NOPE");
+        }
+
     }
 }
