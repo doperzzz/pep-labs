@@ -33,7 +33,7 @@ public class ReturnArrayContents {
       String str = "";
       for(int i = 0; i < nums.length; i++){
         
-        str = nums[i]  + " ";
+        str = str + nums[i]  + " ";
 
        }
       
