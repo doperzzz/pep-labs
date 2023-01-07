@@ -1,4 +1,3 @@
-import java.util.Arrays;
 
 public class ReturnArrayContents {
     /**
@@ -34,10 +33,8 @@ public class ReturnArrayContents {
       String str = "";
       for(int i = 0; i < nums.length; i++){
         
-        str = i + " ";
+        str = nums[i]  + " ";
 
-        
-        
        }
       
           return str;
