@@ -1,1 +1,1 @@
-SELECT * FROM class RIGHT OUTER JOIN texbook ON class.class_title = texbook.class_title;
+SELECT * FROM class RIGHT OUTER JOIN textbook ON class.class_title = textbook.class_title;
