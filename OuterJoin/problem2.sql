@@ -1,0 +1,1 @@
+SELECT * FROM class RIGHT OUTER JOIN texbook ON class.class_title = texbook.class_title;
