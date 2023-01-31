@@ -1,3 +1,5 @@
+import static org.junit.Assert.fail;
+
 /**
  * Boolean operators can be combined just like having multiple mathematical operators in a math equation.
  * Like math equations, they can be combined using parentheses, where the parentheses are completed first. Otherwise,
@@ -16,7 +18,7 @@ public class AdvancedBooleanLogic {
      * @return false if b1 and b2 are both true. Otherwise, return true.
      */
     public boolean returnNotBoth(boolean b1, boolean b2){
-        return false;
+        return ;
     }
     /**
      * b1 OR b2, BUT NOT BOTH
