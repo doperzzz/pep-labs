@@ -3,7 +3,7 @@
 :repo_path: "/workspace/revpro-cli/pep-labs"
 :previous_lab: 
 :current_lab: 
-:origin_remote: https://github.com/doperzzz/pep-labs.git
+:origin_remote: https://github.com/doperzzz/pep-labs
 :repo_clone_folder: "/workspace/revpro-cli/pep-labs"
 :github_username: doperzzz
 :git_name: doperzzz
@@ -33,8 +33,8 @@
     checkoutLocation: pep-gitpod-workspace
     upstreamRemoteURI: https://github.com/revature-curriculum/pep-gitpod-workspace.git
   :gitpod_workspace:
-    :workspace_id: doperzzz-pepgitpodworks-h5a6md2fi18
-    :workspace_url: https://doperzzz-pepgitpodworks-h5a6md2fi18.ws-us79.gitpod.io
+    :workspace_id: doperzzz-pepgitpodworks-b46ka2xmssl
+    :workspace_url: https://doperzzz-pepgitpodworks-b46ka2xmssl.ws-us87.gitpod.io
     :repo_root: "/workspace/pep-gitpod-workspace"
     :git_user_email: preston.zaya@gmail.com
     :git_user_name: doperzzz
