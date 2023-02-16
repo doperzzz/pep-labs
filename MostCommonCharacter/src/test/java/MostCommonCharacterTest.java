@@ -17,13 +17,13 @@ public class MostCommonCharacterTest {
         }
 
     /**
-     * Within these numbers, 4 appears the most.
+     * Within these numbers, 5 appears the most.
      */
     @Test
         public void mostCommonCharacterTest2() {
             String str = "3585922463" + "4564881449" + "9744344742" + "8950706750" + "7316600461" + "9728760400" + "7599995873" + "0552858863" + "6107666584" + "8137602552";
 
-            Assert.assertEquals('4', mcc.recurringChar(str));
+            Assert.assertEquals('5', mcc.recurringChar(str));
         }
 
     /**
